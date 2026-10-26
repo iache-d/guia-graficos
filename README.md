@@ -4,6 +4,22 @@
 
 Estas son indicaciones generales para hacer gráficos de calidad de publicación con matplotlib. 
 
+## Descargar la guía
+
+La guía completa es este mismo archivo, `README.md`. Hay dos formas de obtenerlo:
+
+1. **Descargar el archivo.** Entra a [`README.md`](README.md) en la lista de archivos de arriba.
+   En la esquina superior derecha del texto aparece un botón con una flecha hacia abajo
+   (*Download raw file*). Al hacer clic se descarga `README.md`, que se puede abrir con cualquier
+   editor de texto o adjuntar a una IA.
+2. **Copiar el texto.** Abre
+   [este enlace](https://raw.githubusercontent.com/iache-d/guia-graficos/main/README.md), que
+   muestra la guía como texto puro, sin la página de GitHub alrededor. Selecciona todo
+   (Ctrl + A), copia (Ctrl + C) y pega donde lo necesites.
+
+Si quieres el repositorio completo, con las figuras y el código de ejemplo, usa el botón verde
+**Code** de la página principal y elige **Download ZIP**.
+
 ## Ejemplo
 
 Los mismos datos con matplotlib tal como viene (izquierda) y con las reglas de esta guía (derecha).
