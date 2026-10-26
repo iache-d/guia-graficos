@@ -2,8 +2,7 @@
 
 **Ignacio Díaz**, Ingeniería Civil Física, UTFSM. Versión 1.0, octubre de 2026.
 
-Estas son indicaciones generales para hacer gráficos de calidad de publicación con matplotlib. No
-son de un ramo ni de un trabajo en particular: sirven para papers, informes y presentaciones. 
+Estas son indicaciones generales para hacer gráficos de calidad de publicación con matplotlib. 
 
 ## Ejemplo
 
