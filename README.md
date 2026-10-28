@@ -79,7 +79,7 @@ La regla más importante y la que más se olvida.
   como la de Okabe-Ito o la "colorblind" de seaborn.
 - **Si hace falta algo que matplotlib no trae**: los *Scientific Colour Maps* de Fabio Crameri.
   Son perceptualmente uniformes, aptos para daltónicos y legibles en blanco y negro, y varias
-  revistas de geociencias los recomiendan. Hay de todos los tipos:
+  revistas de ciencias los recomiendan. Hay de todos los tipos:
   - secuenciales: batlow (el más usado), lajolla, davos, oslo;
   - divergentes: vik, roma, berlin (vik ya aparece arriba, viene de aquí);
   - cíclicos, para fases o ángulos: romaO, vikO;
